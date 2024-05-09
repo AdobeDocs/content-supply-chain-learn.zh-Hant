@@ -8,13 +8,13 @@ role: Admin, User, Leader, Data Architect, Data Engineer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14157
-source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
+exl-id: 36b8569a-21a4-40da-ae24-e6b0ca2a0463
+source-git-commit: f0748e0965ac87999067e0c031408cb556e396d1
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 5%
 
 ---
-
 
 # 傳遞與啟用教學課程
 
