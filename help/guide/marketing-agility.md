@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14156
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: a72efe7e-e7ff-4845-9242-f038f10bb805
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
 
 ---
-
 
 # 行銷靈敏度：讓非創意人員具備擴展能力
 
@@ -163,7 +163,7 @@ ht-degree: 0%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="使用Firefly建立行銷活動的傳單內容">使用Firefly建立行銷活動的傳單內容</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="使用Firefly建立行銷活動的傳單內容">使用Firefly</a>為行銷活動建立傳單內容
           </p>
           <p class="is-size-6"><em>瞭解如何在Adobe Express中使用由Adobe Firefly支援的文字轉影像，以建立來自全球飯店行銷活動的本地化內容。 </em></p>
       </div>
@@ -470,4 +470,4 @@ ht-degree: 0%
 ## 其他資源
 
 * [Experience League事件](https://experienceleague.adobe.com/events/)
-* [內容供應鏈上的Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* 內容供應鏈](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)上的[Adobe

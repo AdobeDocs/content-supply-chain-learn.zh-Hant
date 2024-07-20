@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+exl-id: e66480f9-c7af-4b15-afdf-dd89a792af20
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 3%
 
 ---
-
 
 # 創意生產力：強化創意團隊
 
@@ -59,8 +59,8 @@ ht-degree: 3%
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" target="_blank">
         <strong>設定Experience Manager的管理存取權</strong></a>
-        <p class="is-size-7 recs-limit-description">探索使用者如何使用Adobe IMS執行AEMas a Cloud Service驗證，以及如何使用Adobe IMS使用者、使用者群組和產品設定檔來控制AEM存取權及其功能。</p>
-        <p><a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span></a></p>
+        <p class="is-size-7 recs-limit-description">探索使用者如何使用Adobe IMS執行AEM as a Cloud Service驗證，以及如何使用Adobe IMS使用者、使用者群組和產品設定檔來控制AEM存取權及其功能。</p>
+        <p><a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span></a></p>
         </div>
       </td>
     </tr>
@@ -122,7 +122,7 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEM與AdobeAsset Link創意工作流程">AEM與AdobeAsset Link創意工作流程</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEM與AdobeAsset Link創意工作流程">AEM與Adobe資產連結創意工作流程</a>
           </p>
           <p class="is-size-6"><em>Adobe Creative Cloud for enterprise的Adobe Asset Link擴充功能加強在Creative Cloud應用程式中搜尋和瀏覽、排序、預覽、上傳資產、取出、修改、存回和檢視AEM資產的中繼資料的功能。</em></p>
       </div>
@@ -208,7 +208,7 @@ ht-degree: 3%
           <p class="headline is-size-6 has-text-weight-bold">
               <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Adobe資產連結設定">Adobe資產連結設定</a>
           </p>
-          <p class="is-size-6"><em>瞭解如何設定AEMas a Cloud Service的Adobe Asset Link、設定使用者權益和AEMas a Cloud Service，以及如何安裝和使用Adobe Asset Link。</em></p>
+          <p class="is-size-6"><em>瞭解如何設定AEM as a Cloud Service的Adobe Asset Link、設定使用者權益和AEM as a Cloud Service，以及如何安裝和使用Adobe Asset Link。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看影片</span>

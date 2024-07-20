@@ -9,13 +9,13 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15076
-source-git-commit: 588f3d016786a02658c3131945e5a23a47195130
+exl-id: 61a02beb-7869-408b-8024-31e8b46f9f7a
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '1075'
 ht-degree: 2%
 
 ---
-
 
 # 資產管理教學課程
 
@@ -24,7 +24,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->我們的Adobe產品專家團隊已針對關鍵內容供應鏈使用案例收集了一組整合教學課程。 如果您使用多個解決方案，請瞭解整合它們的最佳方式！  檢視 [內容供應鏈整合教學課程](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>我們的Adobe產品專家團隊已針對關鍵內容供應鏈使用案例收集了一組整合教學課程。 如果您使用多個解決方案，請瞭解整合它們的最佳方式！  檢視[內容供應鏈整合教學課程](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en)。
 
 ## 建議的課程
 
@@ -33,15 +33,15 @@ ht-degree: 2%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets — 資產檢視]大量匯入 — 功能影片" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426857?format=jpeg" alt="[AEM Assets — 資產檢視]大量匯入 — 功能影片">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Assets檢視]大量匯入 — 功能影片" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426857?format=jpeg" alt="[AEM Assets - Assets檢視]大量匯入 — 功能影片">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets — 資產檢視]大量匯入 — 功能影片">[AEM Assets — 資產檢視]大量匯入 — 功能影片</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Assets檢視]大量匯入 — 功能影片">[AEM Assets - Assets檢視]大量匯入 — 功能影片</a>
           </p>
           <p class="is-size-6">瞭解如何使用大量匯入功能將許多檔案匯入AEM Assets，以Dropbox作為範例雲端儲存提供者，以實現清晰且易於遵循的整合流程。</p>
         </div>
@@ -63,7 +63,7 @@ ht-degree: 2%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="[Asset Essentials][Workfront]Assets Essentials和Workfront整合 — 目錄">[Asset Essentials][Workfront]Assets Essentials和Workfront整合 — 目錄</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="[Asset Essentials][Workfront]Assets Essentials和Workfront整合 — 目錄">[Asset Essentials][Workfront]Assets Essentials與Workfront整合 — 目錄</a>
           </p>
           <p class="is-size-6">瞭解如何整合Workfront和Assets Essentials。</p>
         </div>
@@ -151,7 +151,7 @@ ht-degree: 2%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="[AEM Assets] AEM與Adobe Asset Link創意工作流程 — 超值影片">[AEM Assets] AEM與Adobe Asset Link創意工作流程 — 超值影片</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="[AEM Assets] AEM與Adobe Asset Link創意工作流程 — 超值影片">[AEM Assets] AEM與Adobe Asset Link創意工作流程 — 值影片</a>
           </p>
           <p class="is-size-6">影片說明使用AAL和AAM的使用者創意工作流程</p>
         </div>
@@ -165,15 +165,15 @@ ht-degree: 2%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO]使用電子郵件設計工具建立內容 — 功能影片" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="[AJO]使用電子郵件設計工具建立內容 — 功能影片">
+          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO]使用電子郵件Designer建立內容 — 功能影片" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="[AJO]使用電子郵件Designer建立內容 — 功能影片">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO]使用電子郵件設計工具建立內容 — 功能影片">[AJO]使用電子郵件設計工具建立內容 — 功能影片</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO]使用電子郵件Designer建立內容 — 功能影片">[AJO]使用電子郵件Designer建立內容 — 功能影片</a>
           </p>
           <p class="is-size-6">了解如何從頭開始建立電子郵件。了解如何使用 AEM Assets Essentials 資料庫中的資產、編輯回應式電子郵件設計，以及從範本建立電子郵件。</p>
         </div>
@@ -217,7 +217,7 @@ ht-degree: 2%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="[AEM Assets]內容自動化 — 超值影片">[AEM Assets]內容自動化 — 超值影片</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="[AEM Assets]內容自動化 — 超值影片">[AEM Assets]內容自動化 — 值影片</a>
           </p>
           <p class="is-size-6">概述如何將Photoshop和Lightroom功能套用至Adobe Experience Manager Assets內容自動化。</p>
         </div>
@@ -371,7 +371,7 @@ ht-degree: 2%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html" title="[Assets] DM智慧型影像裁切 — 功能影片 ">[Assets] DM智慧型影像裁切 — 功能影片 </a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html" title="[Assets] DM智慧型影像裁切 — 功能影片 ">[Assets] DM智慧型影像裁切 — 功能影片</a>
           </p>
           <p class="is-size-6">智慧型裁切使用Adobe Sensei，省去針對回應式設計裁切內容所費時且成本高昂的工作。</p>
         </div>
@@ -385,17 +385,17 @@ ht-degree: 2%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets]資產來源檔案翻譯 — 功能影片" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/18331?format=jpeg" alt="[Assets]資產來源檔案翻譯 — 功能影片">
+          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets]資產Source檔案翻譯 — 功能影片" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/18331?format=jpeg" alt="[Assets]資產Source檔案翻譯 — 功能影片">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets]資產來源檔案翻譯 — 功能影片">[Assets]資產來源檔案翻譯 — 功能影片</a>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets]資產Source檔案翻譯 — 功能影片">[Assets]資產Source檔案翻譯 — 功能影片</a>
           </p>
-          <p class="is-size-6">Adobe Experience Manager (AEM) Assets可讓您識別共用相同屬性的資產，並使用新的「相關資產」功能將其標示為相關。</p>
+          <p class="is-size-6">Adobe Experience Manager (AEM) Assets可讓您識別共用相同屬性的資產，並使用新的「相關Assets」功能將其標示為相關。</p>
         </div>
         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解詳情</span>
@@ -408,4 +408,4 @@ ht-degree: 2%
 ## 其他資源
 
 * [Experience League事件](https://experienceleague.adobe.com/events/)
-* [內容供應鏈上的Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* 內容供應鏈](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)上的[Adobe

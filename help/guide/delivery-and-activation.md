@@ -30,7 +30,7 @@ ht-degree: 5%
 
 >[!TIP]
 >
->我們的Adobe產品專家團隊已針對關鍵內容供應鏈使用案例收集了一組整合教學課程。 如果您使用多個解決方案，請瞭解整合它們的最佳方式！  檢視 [內容供應鏈整合教學課程](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>我們的Adobe產品專家團隊已針對關鍵內容供應鏈使用案例收集了一組整合教學課程。 如果您使用多個解決方案，請瞭解整合它們的最佳方式！  檢視[內容供應鏈整合教學課程](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en)。
 
 ## 教學課程
 
@@ -47,7 +47,7 @@ ht-degree: 5%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="內容片段主控台/編輯器概觀">內容片段主控台/編輯器概觀</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="內容片段主控台/編輯器概觀">內容片段主控台/編輯器總覽</a>
           </p>
           <p class="is-size-6">影片集合，可協助您瞭解並使用AEM內容片段控制檯和編輯器。</p>
         </div>
@@ -91,7 +91,7 @@ ht-degree: 5%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html" title="Assets Essentials概觀">Assets Essentials概觀</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/assets-essentials-overview.html" title="Assets Essentials概觀">Assets Essentials總覽</a>
           </p>
           <p class="is-size-6">概述Assets Essentials的功能及在Adobe Journey Optimizer的使用方式。</p>
         </div>
@@ -149,15 +149,15 @@ ht-degree: 5%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="使用電子郵件設計工具建立內容" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="使用電子郵件設計工具建立內容">
+          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="使用電子郵件Designer建立內容" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="使用電子郵件Designer建立內容">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="使用電子郵件設計工具建立內容">使用電子郵件設計工具建立內容</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="使用電子郵件Designer建立內容">使用電子郵件Designer建立內容</a>
           </p>
           <p class="is-size-6">了解如何從頭開始建立電子郵件。了解如何使用 AEM Assets Essentials 資料庫中的資產、編輯回應式電子郵件設計，以及從範本建立電子郵件。標¬†</p>
         </div>
@@ -215,15 +215,15 @@ ht-degree: 5%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="個人化完整網頁體驗" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6353-personalization-web-page.jpg" alt="個人化完整網頁體驗">
+          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="完整網頁體驗的Personalization" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6353-personalization-web-page.jpg" alt="完整網頁體驗的Personalization">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="個人化完整網頁體驗">個人化完整網頁體驗</a>
+            完整網頁體驗的<a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="完整網頁體驗的Personalization">Personalization</a>
           </p>
           <p class="is-size-6">瞭解如何建立活動，使用Adobe Target將AEM上託管的網頁重新導向至新頁面。</p>
         </div>
@@ -237,15 +237,15 @@ ht-degree: 5%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="使用視覺化體驗撰寫器進行個人化" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6352-personalization-using-vec.jpg" alt="使用視覺化體驗撰寫器進行個人化">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="使用視覺化體驗撰寫器的Personalization" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6352-personalization-using-vec.jpg" alt="使用視覺化體驗撰寫器的Personalization">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="使用視覺化體驗撰寫器進行個人化">使用視覺化體驗撰寫器進行個人化</a>
+            使用視覺化體驗撰寫器的<a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="使用視覺化體驗撰寫器的Personalization">Personalization</a>
           </p>
           <p class="is-size-6">瞭解如何使用視覺化體驗撰寫器(VEC)建立A/B測試Target活動。</p>
         </div>
@@ -267,7 +267,7 @@ ht-degree: 5%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/create-target-activity.html" title=" 使用體驗片段選件建立Target活動"> 使用體驗片段選件建立Target活動</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/create-target-activity.html" title=" 使用體驗片段選件建立Target活動">使用體驗片段選件建立Target活動</a>
           </p>
           <p class="is-size-6">瞭解如何使用AEM體驗片段選件建立和測試Adobe Target活動。</p>
         </div>
@@ -311,9 +311,9 @@ ht-degree: 5%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" title="具有AEM Assets的影像適用的智慧標籤">具有AEM Assets的影像適用的智慧標籤</a>
+            使用AEM Assets時影像的<a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" title="具有AEM Assets的影像適用的智慧標籤">智慧標籤</a>
           </p>
-          <p class="is-size-6">*說明：*影像的智慧標籤會根據影像內容，自動且聰明地將中繼資料標籤新增至影像資產，藉此增強AEM搜尋功能。</p>
+          <p class="is-size-6">*說明：*影像的智慧標籤會根據影像內容，自動且聰明地將中繼資料標籤新增至影像資產，藉此增強AEM的搜尋功能。</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解詳情</span>
@@ -333,7 +333,7 @@ ht-degree: 5%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search-boost.html" title="增強型搜尋 — 提升搜尋">增強型搜尋 — 提升搜尋</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search-boost.html" title="增強型搜尋 — 提升搜尋">增強型搜尋提升</a>
           </p>
           <p class="is-size-6">瞭解如何在Adobe Experience Manager中新增關鍵字和片語，以提高資產的搜尋相關性。</p>
         </div>
@@ -348,4 +348,4 @@ ht-degree: 5%
 ## 其他資源
 
 * [Experience League事件](https://experienceleague.adobe.com/events/)
-* [內容供應鏈上的Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* 內容供應鏈](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)上的[Adobe

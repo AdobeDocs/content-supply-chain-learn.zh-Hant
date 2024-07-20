@@ -9,13 +9,13 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14154
-source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
+exl-id: ce56c21c-1d75-4694-91a8-06c1b1067026
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 8%
 
 ---
-
 
 # 工作流程和規劃教學課程
 
@@ -28,7 +28,7 @@ ht-degree: 8%
 
 >[!TIP]
 >
->我們的Adobe產品專家團隊已針對關鍵內容供應鏈使用案例收集了一組整合教學課程。 如果您使用多個解決方案，請瞭解整合它們的最佳方式！  檢視 [內容供應鏈整合教學課程](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>我們的Adobe產品專家團隊已針對關鍵內容供應鏈使用案例收集了一組整合教學課程。 如果您使用多個解決方案，請瞭解整合它們的最佳方式！  檢視[內容供應鏈整合教學課程](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en)。
 
 ## 建議的課程
 
@@ -40,9 +40,9 @@ ht-degree: 8%
         </a>
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2023-assets-essentials.html" target="_blank">
-        <strong>AEM Assets Essentials快速入門</strong></a>
+        <strong>開始使用AEM Assets Essentials</strong></a>
         <p class="is-size-7 recs-limit-description">瞭解AEM Assets Essentials如何簡化組織的資產管理。</p>
-        <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2023-assets-essentials.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span></a></p>
+        <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2023-assets-essentials.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span></a></p>
         </div>
       </td>
       <td style="width:33%">
@@ -54,7 +54,7 @@ ht-degree: 8%
         <strong>為管理員設定AEM Assets</strong></a>
         <p class="is-size-7 recs-limit-description">瞭解如何設定核心關注點，從設定基準內容架構和分類法，乃至自訂中繼資料和資產處理，為您的AEM Assets實作奠定堅實的基礎。</p>
         </div>
-        <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span></a></p>
+        <p><a href="https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2020-1-assets.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span></a></p>
       </td>
     </tr>
 </table>
@@ -78,7 +78,7 @@ ht-degree: 8%
           <p class="is-size-6"><em>瞭解如何整合Workfront和AEM Assets Essentials以簡化創意工作流程的管理。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -94,7 +94,7 @@ ht-degree: 8%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="使用 Adobe Workfront 外掛程式與 Creative Cloud 整合">使用Adobe Workfront外掛程式整合Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="使用 Adobe Workfront 外掛程式與 Creative Cloud 整合">使用Adobe Workfront外掛程式來整合Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>將Workfront與Creative Cloud整合，以尋找並更新指派給您的工作，無需離開Adobe Creative Cloud。</em></p>
       </div>
@@ -136,7 +136,7 @@ ht-degree: 8%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Workfront加強聯結器基本需知">Workfront加強聯結器基本需知</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html" title="Workfront加強聯結器基本需知">Workfront增強型聯結器基本需知</a>
           </p>
           <p class="is-size-6"><em>瞭解Adobe Workfront和Experience Manager Assets增強型聯結器的基本需知。</em></p>
       </div>
@@ -245,4 +245,4 @@ ht-degree: 8%
 ## 其他資源
 
 * [Experience League事件](https://experienceleague.adobe.com/events/)
-* [內容供應鏈上的Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* 內容供應鏈](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)上的[Adobe

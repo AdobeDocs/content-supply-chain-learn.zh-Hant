@@ -18,7 +18,7 @@ ht-degree: 2%
 + [資產管理](asset-management.md)
 + [傳遞與啟用](delivery-and-activation.md)
 + [報表和深入分析](reporting-and-insights.md)
-+ 隱藏 {#hidden}
++ 隱藏{#hidden}
    + [創意生產力](creative-productivity.md)
    + [使用AEM Assets創造生產力](creative-productivity-aemassets.md)
    + [行銷靈敏度](marketing-agility.md)

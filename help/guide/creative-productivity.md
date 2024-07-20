@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: b856f8a3-c353-4f10-8d04-5758ec59b611
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
 
 ---
-
 
 # 創意生產力：強化創意團隊
 
@@ -61,7 +61,7 @@ ht-degree: 0%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="提高創意效率">提高創意效率</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" title="提高創意效率">啟用創意效率</a>
           </p>
           <p class="is-size-6"><em>瞭解如何使用Adobe Photoshop和Illustrator中的創作AI支援工具加速內容建立。</em></p>
       </div>
@@ -82,7 +82,7 @@ ht-degree: 0%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Illustrator中的產生式重新上色">Illustrator中的產生式重新上色</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Illustrator中的產生式重新上色">在Illustrator中產生重新上色</a>
           </p>
           <p class="is-size-6"><em>瞭解如何在Adobe Illustrator中使用由Adobe Firefly提供支援的創成性重新上色，以快速幫助自訂酒店茶盒重新上色向量影像。</em></p>
       </div>
@@ -124,7 +124,7 @@ ht-degree: 0%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" title="Photoshop中的橫幅廣告變數">Photoshop中的橫幅廣告變數</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" title="Photoshop中的橫幅廣告變數">Photoshop中的橫幅廣告變化</a>
           </p>
           <p class="is-size-6"><em>瞭解如何在Adobe Photoshop中使用由Adobe Firefly提供支援的產生式填色，以加速網頁廣告橫幅的建立。</em></p>
       </div>
@@ -166,7 +166,7 @@ ht-degree: 0%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Photoshop中的產生式填色">Photoshop中的產生式填色</a>
+              在Photoshop中產生<a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" title="Photoshop中的產生式填色">填入</a>
           </p>
           <p class="is-size-6"><em>瞭解如何在Adobe Photoshop中使用由Adobe Firefly提供支援的Generative Fill，更輕鬆地為旅遊廣告建立概念。</em></p>
       </div>
@@ -179,15 +179,15 @@ ht-degree: 0%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="使用CC Library" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="使用CC Library">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="使用CC Libraries" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="使用CC Libraries">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="使用CC Library">使用CC Library</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="使用CC Libraries">使用CC Libraries</a>
           </p>
           <p class="is-size-6"><em>瞭解如何與您的團隊共用CC Library資產。</em></p>
       </div>
@@ -208,12 +208,12 @@ ht-degree: 0%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html" title="使用Frame.io進行影片審查">使用Frame.io進行影片審查</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html" title="使用Frame.io進行影片審查">使用Frame.io進行視訊評論</a>
           </p>
           <p class="is-size-6"><em>瞭解Adobe Premiere Pro的Frame.io擴充功能如何讓您集中和共用資產、接收即時評論、追蹤修訂並更快獲得核准。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -433,4 +433,4 @@ ht-degree: 0%
 ## 其他資源
 
 * [Experience League事件](https://experienceleague.adobe.com/events/)
-* [內容供應鏈上的Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* 內容供應鏈](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)上的[Adobe
